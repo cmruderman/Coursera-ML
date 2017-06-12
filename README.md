@@ -1,5 +1,5 @@
 # Coursera Machine Learning Assignments
-Exercises from Andrew Ng's Machine Learning on Coursera in Matlab/Octave, Python, and R
+Exercises from Andrew Ng's Machine Learning course on Coursera in Matlab/Octave, Python, and R
 
 To download lecture videos visit the course website:
 - [Course website](https://www.coursera.org/learn/machine-learning)
