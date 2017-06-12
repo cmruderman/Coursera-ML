@@ -12,7 +12,7 @@ Introduction
 Linear Regression with One Variable
 
 # Week 2
-Linear Regression with Multiple Variables
+Linear Regression with Multiple Variables \n
 ex1
 
 # Week 3 
